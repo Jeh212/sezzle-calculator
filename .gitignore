@@ -1,0 +1,12 @@
+# Conductor workspace scratch space
+.context/
+
+# macOS
+.DS_Store
+
+# Go build artifacts
+backend/server
+
+# Editors
+.vscode/
+.idea/
